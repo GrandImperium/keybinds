@@ -13,9 +13,9 @@
 // ==/UserScript==
 
 // CHANGE
-var faction = 146 // your faction id
-var target = 0 // faction id of your target faction
-var targetNum = 0 // number of nations in your target faction
+var faction = 4 // your faction id
+var target = 65 // faction id of your target faction
+var targetNum = 414 // number of nations in your target faction
 var turbo = false // TURBO MODE??
 
 // DON'T CHANGE
